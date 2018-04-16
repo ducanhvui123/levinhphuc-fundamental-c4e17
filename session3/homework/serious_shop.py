@@ -1,0 +1,1 @@
+input("Welcome to our shop, what do you want (C, R, U, D)?")
