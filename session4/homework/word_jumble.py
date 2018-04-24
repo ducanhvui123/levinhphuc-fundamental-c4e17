@@ -1,7 +1,7 @@
 from random import choice
 loop = True
 wrong_count = 0
-list_of_word = ("python", "yeudieuanh", "huychanthoi", "huyamdau", "huybeo")
+list_of_word = ("python", "yeudieuanh", "dieuanhxinh", "woaini",)
 print('''Welcome my homie
 this is my stupid game call: Word Jumble
 you have to guess my word in wrong order, and you only have ten chance to guess :3''')
